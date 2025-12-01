@@ -1,1 +1,8 @@
+{
+  "name": "Arch Linux Online",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "remoteUser": "root"
+}
 
